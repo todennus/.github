@@ -12,6 +12,8 @@ An Identity, OpenID Connect, and OAuth2 Provider.
 
 [gRPC Services](https://github.com/todennus/proto)
 
+[Get started](https://github.com/todennus/workspace?tab=readme-ov-file#get-started)
+
 ### Architecture
 
 - Multirepo miroservices.
