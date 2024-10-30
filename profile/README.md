@@ -10,7 +10,7 @@ An Identity, OpenID Connect, and OAuth2 Provider.
 
 [Swagger Endpoint](https://github.com/todennus/docs)
 
-[gRPC Services](https://github.com/todennus/proto)
+[gRPC Usage](https://github.com/todennus/proto)
 
 [Get started](https://github.com/todennus/workspace?tab=readme-ov-file#get-started)
 
@@ -39,12 +39,14 @@ An Identity, OpenID Connect, and OAuth2 Provider.
   + Authorization Code Flow With PKCE ***\*completed\****.
   + Implicit Flow.
   + Resource Owner Password Credentials Flow ***\*completed\****.
-  + Client Credentials Flow.
+  + Client Credentials Flow ***\*completed\****.
   + Refresh Token Flow ***\*completed\****.
   + Device Flow (low priority).
 
 - Support Open ID Connect.
 - Allow integrate with external Identity/OAuth2 Provider ***\*completed\****.
+- Support authenticate microservices by OAuth2.
+- Rate limiter.
 
 ### User traffic
 
