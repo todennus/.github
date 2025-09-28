@@ -56,7 +56,7 @@ An Identity, OpenID Connect, and OAuth2 Provider.
 - Support authenticate microservices by OAuth2.
 - Rate limiter.
 
-### User traffic
+### Target User traffic
 
 - 100M users.
 - 1M new users per day.
